@@ -14,7 +14,7 @@
   "repository": "skem",
   "website": "",
   "success_url": "https://t.me/HACKEROPDYNAMIC",
-  "stack": "container"
+  "stack": "container",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -134,5 +134,5 @@
         "version": "12"
       }
     }
-  ],
+  ]
 }
